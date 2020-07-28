@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "357qhTX30HjGYZDwxQuyjuRPQkZKLKkOZkCseuoxFu4FU1V9KWxHBWugeaFyyyhjUQw4krpV3M8oARsnOsFTIg==",
+  "success": true,
+  "projectFilePath": "D:\\TeleportRepo\\Teleport.Model\\Teleport.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ecetir\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+D:\TeleportProject\Teleport.Common\bin\Debug\netcoreapp3.1\Teleport.Common.deps.json
+D:\TeleportProject\Teleport.Common\bin\Debug\netcoreapp3.1\Teleport.Common.dll
+D:\TeleportProject\Teleport.Common\bin\Debug\netcoreapp3.1\Teleport.Common.pdb
+D:\TeleportProject\Teleport.Common\obj\Debug\netcoreapp3.1\Teleport.Common.csprojAssemblyReference.cache
+D:\TeleportProject\Teleport.Common\obj\Debug\netcoreapp3.1\Teleport.Common.AssemblyInfoInputs.cache
+D:\TeleportProject\Teleport.Common\obj\Debug\netcoreapp3.1\Teleport.Common.AssemblyInfo.cs
+D:\TeleportProject\Teleport.Common\obj\Debug\netcoreapp3.1\Teleport.Common.csproj.CoreCompileInputs.cache
+D:\TeleportProject\Teleport.Common\obj\Debug\netcoreapp3.1\Teleport.Common.dll
+D:\TeleportProject\Teleport.Common\obj\Debug\netcoreapp3.1\Teleport.Common.pdb

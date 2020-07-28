@@ -1,0 +1,16 @@
+D:\TeleportProject\Teleport.Service\bin\Debug\netcoreapp3.1\Teleport.Service.deps.json
+D:\TeleportProject\Teleport.Service\bin\Debug\netcoreapp3.1\Teleport.Service.dll
+D:\TeleportProject\Teleport.Service\bin\Debug\netcoreapp3.1\Teleport.Service.pdb
+D:\TeleportProject\Teleport.Service\obj\Debug\netcoreapp3.1\Teleport.Service.csprojAssemblyReference.cache
+D:\TeleportProject\Teleport.Service\obj\Debug\netcoreapp3.1\Teleport.Service.AssemblyInfoInputs.cache
+D:\TeleportProject\Teleport.Service\obj\Debug\netcoreapp3.1\Teleport.Service.AssemblyInfo.cs
+D:\TeleportProject\Teleport.Service\obj\Debug\netcoreapp3.1\Teleport.Service.dll
+D:\TeleportProject\Teleport.Service\obj\Debug\netcoreapp3.1\Teleport.Service.pdb
+D:\TeleportProject\Teleport.Service\obj\Debug\netcoreapp3.1\Teleport.Service.csproj.CoreCompileInputs.cache
+D:\TeleportProject\Teleport.Service\bin\Debug\netcoreapp3.1\Teleport.Common.dll
+D:\TeleportProject\Teleport.Service\bin\Debug\netcoreapp3.1\Teleport.Data.dll
+D:\TeleportProject\Teleport.Service\bin\Debug\netcoreapp3.1\Teleport.Model.dll
+D:\TeleportProject\Teleport.Service\bin\Debug\netcoreapp3.1\Teleport.Data.pdb
+D:\TeleportProject\Teleport.Service\bin\Debug\netcoreapp3.1\Teleport.Model.pdb
+D:\TeleportProject\Teleport.Service\bin\Debug\netcoreapp3.1\Teleport.Common.pdb
+D:\TeleportProject\Teleport.Service\obj\Debug\netcoreapp3.1\Teleport.Service.csproj.CopyComplete
